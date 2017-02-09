@@ -8,7 +8,7 @@ This tool can be used to generate IP lists to feed into /tnw/test-tools/src/auto
 
 Date:  2/9/2017
 
-Authors:  Chris Gleeson.
+Authors:  randomInteger
 
 
 Installation:    
