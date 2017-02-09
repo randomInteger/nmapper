@@ -4,7 +4,7 @@ as well as to a JSON output file.
 The primary purpose of this tool is to be able to run nmap scans for machines
 that are UP on a network, and then get a JSON list of those IP addresses.
 
-This tool can be used to generate IP lists to feed into /tnw/test-tools/src/automation/scripts/sshtool
+This tool can be used to generate IP lists to feed into tools which batch process operations to large lists of IP addresses.
 
 Date:  2/9/2017
 
